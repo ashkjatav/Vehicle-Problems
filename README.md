@@ -1,6 +1,6 @@
 ## <center>Text Mining to Decipher Free-Response Consumer Complaints<center>
 
-###OBJECTIVE
+### OBJECTIVE
 
 The objective of this study is to identify clusters of vehicle related problem and associated year trends after 2012. Incidents representing two severity levels(fatal incidents and incidents involving injury) from the free response data in the NHTSA's vehicls owner's complaint database are analyzed using text mining approach.
 
